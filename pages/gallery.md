@@ -4,6 +4,7 @@ title: Gallery
 subtitle: From the unsplash folder
 permalink: /gallery/
 gallery_path: "assets/img/unsplash"
+feature-img: "assets/img/unsplash/sky-garden.jpeg"
 tags: [Gallery, Photo]
 ---
 
