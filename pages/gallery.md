@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gallery
-subtitle: From the pexels folder
+subtitle: From the unsplash folder
 permalink: /gallery/
 gallery_path: "assets/img/unsplash"
 tags: [Gallery, Photo]
