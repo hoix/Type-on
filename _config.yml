@@ -14,7 +14,7 @@ theme_settings:
   gravatar: 4fd2af1343a2aa5edf69941408d116e4
 
   # Header and footer text
-  header_text: Welcome to my L337 810G
+  header_text: Welcome to my Blog
   header_feature_image: assets/img/unsplash/clouds.jpeg
   footer_text:
     Powered by <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>, customised by <a href="mailto:thakrars@bluecoatschool.com?Subject=Blog:">Sachin Thakrar</a>
